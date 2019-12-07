@@ -50,11 +50,12 @@
                                     <action selector="calculateButton_TouchUpInside:" destination="FGc-Gx-33d" eventType="touchUpInside" id="ND3-TI-7uT"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter some values to calculate your retirement amount." lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lka-CY-ali">
-                                <rect key="frame" x="20" y="292" width="374" height="82"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lka-CY-ali">
+                                <rect key="frame" x="20" y="292" width="374" height="122"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="82" id="vf0-cb-2dv"/>
+                                    <constraint firstAttribute="height" constant="122" id="vf0-cb-2dv"/>
                                 </constraints>
+                                <string key="text">If you save $1000 every month for 45 years, and invest that money plus your current investment of $50000 at a 3% anual interest rate, you will have $12312312 by the time you are 65</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
