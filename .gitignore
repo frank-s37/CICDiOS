@@ -4,7 +4,7 @@
 # https://medium.com/@satorusasozaki/swift-gitignore-by-github-explained-b5dc7479c661
 
 ## User settings
-xcuserdata/
+#xcuserdata/ ## need shared schema for App Center
 
 ## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
 *.xcscmblueprint
